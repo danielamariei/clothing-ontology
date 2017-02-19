@@ -339,7 +339,7 @@ sc:Accessory rdf:type owl:Class ;
                                    sc:Tie
                                    sc:Umbrella
                                  ) ;
-             dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/accesory.png"^^xsd:anyURI ;
+             dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/accesory.png"^^xsd:anyURI ;
              rdfs:label "Accessory"@en .
 
 
@@ -364,7 +364,7 @@ sc:Belt rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Blazer
 sc:Blazer rdf:type owl:Class ;
           rdfs:subClassOf dbr:Clothing ;
-          dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/blazer-1.png"^^xsd:anyURI ;
+          dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/blazer-1.png"^^xsd:anyURI ;
           rdfs:label "Blazer"@en .
 
 
@@ -376,7 +376,7 @@ sc:BodyShape rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Bodysuit
 sc:Bodysuit rdf:type owl:Class ;
             rdfs:subClassOf sc:Lingerie ;
-            dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/bodysuit.png"^^xsd:anyURI ;
+            dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/bodysuit.png"^^xsd:anyURI ;
             rdfs:label "Bodysuit"@en .
 
 
@@ -397,14 +397,14 @@ sc:Bra rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Bracelet
 sc:Bracelet rdf:type owl:Class ;
             rdfs:subClassOf sc:Jewellery ;
-            dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/bracelet.png"^^xsd:anyURI ;
+            dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/bracelet.png"^^xsd:anyURI ;
             rdfs:label "Bracelet"@en .
 
 
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Briefs
 sc:Briefs rdf:type owl:Class ;
           rdfs:subClassOf sc:Lingerie ;
-          dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/briefs.png"^^xsd:anyURI ;
+          dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/briefs.png"^^xsd:anyURI ;
           rdfs:label "Briefs"@en .
 
 
@@ -512,7 +512,7 @@ sc:Handbag rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Hat
 sc:Hat rdf:type owl:Class ;
        rdfs:subClassOf sc:Accessory ;
-       dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/hat.png"^^xsd:anyURI ;
+       dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/hat.png"^^xsd:anyURI ;
        rdfs:label "Hat"@en .
 
 
@@ -530,7 +530,7 @@ sc:Interview rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Jeans
 sc:Jeans rdf:type owl:Class ;
          rdfs:subClassOf dbr:Clothing ;
-         dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/jeans.png"^^xsd:anyURI ;
+         dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/jeans.png"^^xsd:anyURI ;
          rdfs:label "Jeans"@en .
 
 
@@ -547,7 +547,7 @@ sc:Jewellery rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Knickers
 sc:Knickers rdf:type owl:Class ;
             rdfs:subClassOf sc:Lingerie ;
-            dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/knickers.png"^^xsd:anyURI ;
+            dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/knickers.png"^^xsd:anyURI ;
             rdfs:label "Knickers"@en .
 
 
@@ -560,7 +560,7 @@ sc:Lingerie rdf:type owl:Class ;
                                   sc:Knickers
                                   sc:Nylons
                                 ) ;
-            dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/lingerie.png"^^xsd:anyURI ;
+            dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/lingerie.png"^^xsd:anyURI ;
             rdfs:label "Lingerie"@en .
 
 
@@ -593,21 +593,21 @@ sc:Necklace rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Nylons
 sc:Nylons rdf:type owl:Class ;
           rdfs:subClassOf sc:Lingerie ;
-          dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/nylons.png"^^xsd:anyURI ;
+          dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/nylons.png"^^xsd:anyURI ;
           rdfs:label "Nylons"@en .
 
 
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#PushUpBra
 sc:PushUpBra rdf:type owl:Class ;
              rdfs:subClassOf sc:Bra ;
-             dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/push-up-bra.png"^^xsd:anyURI ;
+             dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/push-up-bra.png"^^xsd:anyURI ;
              rdfs:label "Push-up bra"@en .
 
 
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Pyjama
 sc:Pyjama rdf:type owl:Class ;
           rdfs:subClassOf dbr:Clothing ;
-          dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/pyjama.png"^^xsd:anyURI ;
+          dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/pyjama.png"^^xsd:anyURI ;
           rdfs:label "Pyjama"@en .
 
 
@@ -630,7 +630,7 @@ sc:RegularFitTrousers rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Ring
 sc:Ring rdf:type owl:Class ;
         rdfs:subClassOf sc:Jewellery ;
-        dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/ring.png"^^xsd:anyURI ;
+        dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/ring.png"^^xsd:anyURI ;
         rdfs:label "Ring"@en .
 
 
@@ -653,7 +653,7 @@ sc:Scarf rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#ShapeLingerie
 sc:ShapeLingerie rdf:type owl:Class ;
                  rdfs:subClassOf sc:Bra ;
-                 dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/push-up-bra.png"^^xsd:anyURI ;
+                 dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/push-up-bra.png"^^xsd:anyURI ;
                  rdfs:label "Shape lingerie"@en .
 
 
@@ -673,7 +673,7 @@ sc:Shoes rdf:type owl:Class ;
                                sc:Sandals
                                sc:Sneakers
                              ) ;
-         dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/shoes.png"^^xsd:anyURI ;
+         dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/shoes.png"^^xsd:anyURI ;
          rdfs:label "Shoes"@en .
 
 
@@ -685,7 +685,7 @@ sc:ShoulderBag rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#SkinnyFitTrousers
 sc:SkinnyFitTrousers rdf:type owl:Class ;
                      rdfs:subClassOf sc:Trousers ;
-                     dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/skinny-fit-trousers.png"^^xsd:anyURI ;
+                     dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/skinny-fit-trousers.png"^^xsd:anyURI ;
                      rdfs:label "Skinny fit trousers"@en .
 
 
@@ -697,7 +697,7 @@ sc:Skirt rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#SlimFitTrousers
 sc:SlimFitTrousers rdf:type owl:Class ;
                    rdfs:subClassOf sc:Trousers ;
-                   dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/slim-fit-trousers.png"^^xsd:anyURI ;
+                   dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/slim-fit-trousers.png"^^xsd:anyURI ;
                    rdfs:label "Slim fit trousers"@en .
 
 
@@ -709,14 +709,14 @@ sc:Sneakers rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Socks
 sc:Socks rdf:type owl:Class ;
          rdfs:subClassOf sc:Underwear ;
-         dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/socks.png"^^xsd:anyURI ;
+         dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/socks.png"^^xsd:anyURI ;
          rdfs:label "Socks"@en .
 
 
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#SportBra
 sc:SportBra rdf:type owl:Class ;
             rdfs:subClassOf sc:Bra ;
-            dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/push-up-bra.png"^^xsd:anyURI ;
+            dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/push-up-bra.png"^^xsd:anyURI ;
             rdfs:label "Sports bra"@en .
 
 
@@ -739,7 +739,7 @@ sc:SyntheticClothingMaterial rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#TShirt
 sc:TShirt rdf:type owl:Class ;
           rdfs:subClassOf dbr:Clothing ;
-          dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/t-shirt.png"^^xsd:anyURI ;
+          dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/t-shirt.png"^^xsd:anyURI ;
           rdfs:label "T-shirt"@en .
 
 
@@ -751,7 +751,7 @@ sc:Tie rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Top
 sc:Top rdf:type owl:Class ;
        rdfs:subClassOf dbr:Clothing ;
-       dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/top.png"^^xsd:anyURI ;
+       dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/top.png"^^xsd:anyURI ;
        rdfs:label "Top"@en .
 
 
@@ -772,7 +772,7 @@ sc:Umbrella rdf:type owl:Class ;
 ###  http://www.semanticweb.org/ontologies/2015/02/semcloth.owl#Underpants
 sc:Underpants rdf:type owl:Class ;
               rdfs:subClassOf sc:Underwear ;
-              dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/underpants.png"^^xsd:anyURI ;
+              dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/underpants.png"^^xsd:anyURI ;
               rdfs:label "Underpants"@en .
 
 
@@ -845,7 +845,7 @@ dbr:Black rdf:type owl:NamedIndividual .
 ###  http://dbpedia.org/resource/Brassiere
 dbr:Brassiere rdf:type owl:NamedIndividual ;
               owl:sameAs sc:Bra ;
-              dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/push-up-bra.png"^^xsd:anyURI .
+              dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/push-up-bra.png"^^xsd:anyURI .
 
 
 ###  http://dbpedia.org/resource/Cashmere_wool
@@ -1475,16 +1475,16 @@ dbr:Female rdfs:label "Female"@en .
 dbr:Male rdfs:label "Male"@en .
 
 
-sc:AnkleBoots dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/ankle-boots.png"^^xsd:anyURI ;
+sc:AnkleBoots dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/ankle-boots.png"^^xsd:anyURI ;
               rdfs:label "Ankle boots"@en .
 
 
-sc:Bag dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/bag.png"^^xsd:anyURI ;
+sc:Bag dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/bag.png"^^xsd:anyURI ;
        rdfs:label "Bag"@en .
 
 
 sc:Belt rdfs:label "Belt"@en ;
-        dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/belt.png"^^xsd:anyURI .
+        dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/belt.png"^^xsd:anyURI .
 
 
 sc:BodyShape rdfs:comment "The class of body shapes a person can have."@en ;
@@ -1492,11 +1492,11 @@ sc:BodyShape rdfs:comment "The class of body shapes a person can have."@en ;
 
 
 sc:Boots rdfs:label "Boots"@en ;
-         dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/boots.png"^^xsd:anyURI .
+         dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/boots.png"^^xsd:anyURI .
 
 
 sc:Bra rdfs:label "Bra"@en ;
-       dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/push-up-bra.png"^^xsd:anyURI .
+       dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/push-up-bra.png"^^xsd:anyURI .
 
 
 sc:BusinessMeeting rdfs:label "Business meeting"@en .
@@ -1516,7 +1516,7 @@ sc:ClothingTexture rdfs:label "Clothing texture"@en .
 sc:Club rdfs:label "Club"@en .
 
 
-sc:Coat dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/coat.png"^^xsd:anyURI ;
+sc:Coat dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/coat.png"^^xsd:anyURI ;
         rdfs:label "Coat"@en .
 
 
@@ -1526,11 +1526,11 @@ sc:Date rdfs:label "Date"@en .
 sc:DinnerParty rdfs:label "Dinner party"@en .
 
 
-sc:Dress dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/dress.png"^^xsd:anyURI ;
+sc:Dress dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/dress.png"^^xsd:anyURI ;
          rdfs:label "Dress"@en .
 
 
-sc:Earrings dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/earrings.png"^^xsd:anyURI ;
+sc:Earrings dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/earrings.png"^^xsd:anyURI ;
             rdfs:label "Earrings"@en .
 
 
@@ -1540,83 +1540,83 @@ sc:Flats rdfs:label "Flats"@en .
 sc:Funneral rdfs:label "Funneral"@en .
 
 
-sc:Gloves dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/glovers.png"^^xsd:anyURI ;
+sc:Gloves dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/glovers.png"^^xsd:anyURI ;
           rdfs:label "Gloves"@en .
 
 
 sc:Handbag rdfs:label "Handbag"@en ;
-           dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/handbag.png"^^xsd:anyURI .
+           dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/handbag.png"^^xsd:anyURI .
 
 
 sc:HighHeels rdfs:label "High-heels"@en ;
-             dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/hight-heels.png"^^xsd:anyURI .
+             dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/hight-heels.png"^^xsd:anyURI .
 
 
 sc:Jewellery rdfs:label "Jewellery"@en ;
-             dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/jewellery.png"^^xsd:anyURI .
+             dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/jewellery.png"^^xsd:anyURI .
 
 
-sc:Moccasins dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/mocassins.png"^^xsd:anyURI ;
+sc:Moccasins dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/mocassins.png"^^xsd:anyURI ;
              rdfs:label "Mocassins"@en .
 
 
-sc:Necklace dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/necklace.png"^^xsd:anyURI ;
+sc:Necklace dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/necklace.png"^^xsd:anyURI ;
             rdfs:label "Necklace"@en .
 
 
-sc:Raincoat dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/raincoat.png"^^xsd:anyURI ;
+sc:Raincoat dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/raincoat.png"^^xsd:anyURI ;
             rdfs:label "Raincoat"@en .
 
 
 sc:RegularFitTrousers rdfs:label "Regular fit trousers"@en ;
-                      dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/regular-fit-trousers.png"^^xsd:anyURI .
+                      dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/regular-fit-trousers.png"^^xsd:anyURI .
 
 
 sc:Sandals rdfs:label "Sandals"@en ;
-           dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/sandals.png"^^xsd:anyURI .
+           dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/sandals.png"^^xsd:anyURI .
 
 
-sc:Scarf dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/scarf.png"^^xsd:anyURI ;
+sc:Scarf dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/scarf.png"^^xsd:anyURI ;
          rdfs:label "Scarf"@en .
 
 
 sc:Shirt rdfs:label "Shirt"@en ;
-         dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/shirt.png"^^xsd:anyURI .
+         dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/shirt.png"^^xsd:anyURI .
 
 
-sc:ShoulderBag dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/shoulder-bag.png"^^xsd:anyURI ;
+sc:ShoulderBag dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/shoulder-bag.png"^^xsd:anyURI ;
                rdfs:label "Shoulder bag"@en .
 
 
-sc:Skirt dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/skirt.png"^^xsd:anyURI ;
+sc:Skirt dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/skirt.png"^^xsd:anyURI ;
          rdfs:label "Skirt"@en .
 
 
-sc:Sneakers dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/sneakers.png"^^xsd:anyURI ;
+sc:Sneakers dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/sneakers.png"^^xsd:anyURI ;
             rdfs:label "Sneakers"@en .
 
 
-sc:Suit dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/suit.png"^^xsd:anyURI ;
+sc:Suit dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/suit.png"^^xsd:anyURI ;
         rdfs:label "Suit"@en .
 
 
-sc:Sunglasses dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/sunglasses.png"^^xsd:anyURI ;
+sc:Sunglasses dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/sunglasses.png"^^xsd:anyURI ;
               rdfs:label "Sunglasses"@en .
 
 
-sc:Tie dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/tie.png"^^xsd:anyURI ;
+sc:Tie dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/tie.png"^^xsd:anyURI ;
        rdfs:label "Tie"@en .
 
 
-sc:Trousers dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/trousers.png"^^xsd:anyURI ;
+sc:Trousers dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/trousers.png"^^xsd:anyURI ;
             rdfs:label "Trousers"@en .
 
 
-sc:Umbrella dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/Umbrella.png"^^xsd:anyURI ;
+sc:Umbrella dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/Umbrella.png"^^xsd:anyURI ;
             rdfs:label "Umbrella"@en .
 
 
-sc:Underwear dbo:thumbnail "http://students.info.uaic.ro/~oana.gagea/images-wade/underwear.png"^^xsd:anyURI ;
+sc:Underwear dbo:thumbnail "https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/thumbnails/underwear.png"^^xsd:anyURI ;
              rdfs:label "Underwear"@en .
 
 
