@@ -11,7 +11,7 @@ The repository is structured as follows:
 
 ### Visualizing the Ontology
 The ontology can be visualized using the following tools/approaches:
-* [render an interactive visualization of the Clothing Ontology using WebVOWL](http://visualdataweb.de/webvowl/#iri=https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/tbox/clothing-ontology.ttl);
+* [render an interactive visualization of the Clothing Ontology using WebVOWL](https://service.tib.eu/webvowl/#iri=https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/tbox/clothing-ontology.ttl);
 * [render a human-readable HTML page of the Clothing Ontology](http://www.essepuntato.it/lode/closure/reasoner/https://raw.githubusercontent.com/danielamariei/clothing-ontology/master/tbox/clothing-ontology.ttl);
 * [view the Clothing Ontology in one of the various serialization formats available](https://github.com/danielamariei/clothing-ontology/blob/master/tbox/).
 
