@@ -3,6 +3,11 @@
 ### Introduction
 The purpose of this ontology is to create the common conceptual framework for 'talking' about clothing and/or related concepts. This should provide a common vocabulary for this domain.
 
+In order to develope the _Ontology_ for our project we have used various external _vocabularies/ontologies/datasets_, including:
+* [DBpedia](http://dbpedia.org/About);
+* [Dublin Core Metada Initiative](http://dublincore.org/);
+* [Semantically-Interlinked Online Communities](http://rdfs.org/sioc/spec/) (for the moment just one term).
+
 ### Repository Structure
 The repository is structured as follows:
 * the [tbox](https://github.com/danielamariei/clothing-ontology/blob/master/tbox/) folder contains the TBox of the ontology, serialized in various formats;
